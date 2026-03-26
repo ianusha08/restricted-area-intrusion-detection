@@ -186,9 +186,8 @@ numpy
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-B.Tech Computer Science — Minor Project
-[Your College Name] · 2025–26
+Anusha — B.Tech Computer Science (AI & ML)
+Minor Project
 
 ---
 

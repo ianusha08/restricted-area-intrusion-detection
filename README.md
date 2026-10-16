@@ -187,22 +187,3 @@ numpy
 
 ---
 
-## 👨‍💻 Author
-
-Anusha — B.Tech Computer Science (AI & ML)
-Minor Project
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
-
-## 🙏 Acknowledgements
-
-- [cvzone by Computer Vision Zone](https://github.com/cvzone/cvzone)
-- [MediaPipe by Google](https://mediapipe.dev)
-- [OpenCV](https://opencv.org)
-- [Twilio](https://twilio.com)
